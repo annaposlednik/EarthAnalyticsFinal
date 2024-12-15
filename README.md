@@ -5,7 +5,7 @@
 
 This project (final project for CU Boulder GEOG 5463) models the future habitat suitability for *Sorghastrum nutans* (Indiangrass) in Colorado, by combining multiple data layers related to soil, topography, and climate. It examines two National Grasslands - Pawnee and Comanche - in 2074 and 2099 under business as usual climate projections. 
 
-This repository contains a Jupyter notebook (`finalassignment.ipynb`) which includes all of the necessary code, packages, and data downloads to replicate the analysis. An HTML file is also included to easily preview results. All supporting images are stored in the `\img` folder. 
+This repository contains a Jupyter notebook (`finalassignment.ipynb`) which includes all of the necessary code, packages, and data downloads to replicate the analysis. An HTML file is also included to easily preview results. All supporting images are stored in the `\img` folder. HTML and Jupyter notebooks for my portfolio post for GEOG 5463 can also be found in this repository. 
 
 ## Data Sources
 
